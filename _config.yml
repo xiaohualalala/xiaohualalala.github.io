@@ -1,1 +1,20 @@
 theme: jekyll-theme-minimal
+# Site settings
+title: guoxiaohua's Blog
+email: guosa20001205@163.com
+description: > # this means to ignore newlines until "baseurl:"
+  A blog about Statistics, Mathmatic, R and Python
+baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: guoxiaohua
+github_username:  xiaohualalala
+
+markdown: kramdown
+
+kramdown:
+    input: GFM
+
+highlighter: rouge
+
+# Google services
+google_analytics: UA-87660981-1
